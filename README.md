@@ -1,8 +1,8 @@
 ## Welcome!
 
-You can use the [editor on GitHub](https://github.com/Hadronical/hadronical.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hey there! Salutations. I hope you are having a wonderful day :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have no idea what to put here yet, maybe some small projects?
 
 ### Markdown
 
